@@ -1,6 +1,6 @@
 {
-    "name": "RAIZEL - MD",
-    "description": "RAIZELMD  - Makes it easy and fun to use Whatsapp.",
+    "name": "armin - MD",
+    "description": "arminMD  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/39272916fd98efa5fec86.jpg",
     "keywords": ["whatsapp", "userbot", "bobiz", "bot", "ai" , "MD" ],
     "repository": "https://github.com/bobizbotmd/BOBIZ-MD",
@@ -21,7 +21,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://wa.me/+967770500831" ,
+            "value": "https://wa.me/01279251079" ,
             "required": true
       },
      "URL_2NAME": {
@@ -31,7 +31,7 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://chat.whatsapp.com/Gb62eN2S5yI9mhfdn6Ma4z" ,
+            "value": "https://chat.whatsapp.com/E56pLzHyviH7zBx8CGjSsW" ,
             "required": true
       },
       
@@ -42,7 +42,7 @@
       },
       "ALIVE_LOGO": {
             "description": "add direct image url",
-            "value": "https://telegra.ph/file/39272916fd98efa5fec86.jpg" ,
+            "value": "https://telegra.ph/Dgdg-10-22" ,
             "required": true
       },
      
@@ -78,7 +78,7 @@
       },
           "STIC_WM": {
             "description": "حقوق الملصق",
-            "value": "🔱 𝚁𝚊𝚒𝚣𝚎𝚕 𝙶𝚎𝚘𝚛𝚐𝚎 🔱" ,
+            "value": "☁️Armin rebot☁️" ,
             "required": true
       }
          
